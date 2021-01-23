@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens:
+  🤓 Linguagens:
 <br>
 <br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" >
@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=matheuscarv69&show_icons=true&theme=midnight-purple" align="right" min-width="400px" max-width="400px" width="400px" alt="github stats">
 <p align="left">
   💼 Ferramentas:<br><br> <strong>IntelliJ IDEA, VsCode, Insomnia, Postman, Git e GitHub </strong>
 </p>
@@ -34,6 +35,5 @@
   <a href="https://www.instagram.com/_mmcarvalho/" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_mmcarvalho/"/></a>  
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=matheuscarv69&show_icons=true&theme=midnight-purple" align="right" min-width="400px" max-width="400px" width="400px" alt="github stats">
 
 
