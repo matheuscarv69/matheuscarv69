@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá me chamo Matheus, sou desenvolvedor <strong>back-end</strong>, e estou sempre em busca de novos conhecimentos.<br><br>
-  Estudo Sistemas de Informação na Estácio de Sá e atualmente sou estagiário na Defensoria Pública de Roraima, estou disponível para trabalhos, caso precise de ajuda em algo, só entrar em contato 😉.
+  Estudo Sistemas de Informação na Estácio de Sá e estou no 7º semestre, atualmente sou estagiário na Defensoria Pública de Roraima, estou disponível para trabalhos, caso precise de ajuda em algo, só entrar em contato 😉.
 </p>
 
 <p align="left">
