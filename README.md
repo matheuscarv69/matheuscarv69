@@ -34,5 +34,6 @@
   <a href="https://www.instagram.com/_mmcarvalho/" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_mmcarvalho/"/></a>  
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=matheuscarv69&show_icons=true&theme=midnight-purple" align="right" min-width="400px" max-width="400px" width="400px" alt="github stats">
 
 
