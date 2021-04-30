@@ -75,7 +75,7 @@
 
 - - -
 <p align="center" style="font-size: 20px ;">
-  😉 Obrigado pela visita, espero que tenha gostado, qualquer coisa só chamar 👋
+  😉 Obrigado pela visita, espero que tenha ajudado, qualquer coisa só chamar 👋
   <br>
   🔥 Vamos codar? 🚀
 </p>
