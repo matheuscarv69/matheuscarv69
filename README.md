@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá me chamo Matheus, sou desenvolvedor <strong>back-end Jr.</strong>, e sempre procuro novos conhecimentos.<br><br>
-  Estudo Sistemas de Informação na Estácio de Sá e estou no 7º semestre, atualmente sou Desenvolvedor na Zup Inovation e estágio na Defensoria Pública de Roraima, estou disponível para trocar um ideia, caso precise de ajuda em algo, só entrar em contato 😉.
+  Estudo Sistemas de Informação na Estácio de Sá e estou no 7º semestre, atualmente sou Desenvolvedor na Zup Innovation e estágio na Defensoria Pública de Roraima, bora trocar uma ideia, caso precise de ajuda em algo, só entrar em contato 😉.
 </p>
 
 ## 💻 Tecnologias
