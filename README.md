@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá me chamo Matheus, sou desenvolvedor <strong>back-end Jr. </strong> e sempre procuro novos conhecimentos.<br><br>
-  Estudo Sistemas de Informação na Estácio de Sá e estou no 7º semestre, atualmente sou Desenvolvedor na Zup Innovation e faço estágio na Defensoria Pública de Roraima, tá com alguma dúvida? bora trocar uma ideia e tomar aquele cafezinho, caso precise de ajuda em algo, só entrar em contato 😉.
+  Olá me chamo Matheus, sou desenvolvedor <strong>back-end Jr. </strong> e estou sempre a procura de novos conhecimentos.<br><br>
+  Estudo Sistemas de Informação na Estácio de Sá e estou no 7º semestre, atualmente sou Desenvolvedor na Zup Innovation, tá com alguma dúvida? bora trocar uma ideia e tomar aquele cafezinho, caso precise de ajuda em algo, só entrar em contato 😉.
 </p>
 
 ## 💻 Tecnologias
