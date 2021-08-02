@@ -1,8 +1,8 @@
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
 
-<img src="https://raw.githubusercontent.com/matheuscarv69/matheuscarv69/main/image.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="image">
+<img src="https://raw.githubusercontent.com/matheuscarv69/matheuscarv69/main/image.svg" min-width="400px" max-width="400px" width="450px" align="right" alt="image">
 
-<p align="left"> 
+<p align="justify" > 
   E ai Dev, tudo beleza?, seja bem vindo ao meu humilde Git Hub.
   Me chamo Matheus, sou Dev <strong>back-end</strong> e por conta da curiosidade sempre estou estudando em busca de novos conhecimentos e experiências.<br><br>
   Sou formando de Sistemas de Informação na Estácio de Sá e estou no 8º semestre (Glória a Deus 🙏), atualmente trabalho como Dev na Zup Innovation. 
@@ -51,7 +51,7 @@
 
 ## 📱 Social
 
-<p  align="left">
+<p  align="justify">
   💌 Se você quiser entrar em contato comigo ou trocar uma ideia,<br>não hesite em me enviar uma mensagem: ⤵️
 
   <p align="left">
