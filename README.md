@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/matheuscarv69/matheuscarv69/main/image.svg" min-width="400px" max-width="400px" width="450px" align="right" alt="image">
 
 <p align="justify" > 
-  E ai Dev, tudo beleza?, seja bem vindo ao meu humilde Git Hub.
-  Me chamo Matheus, sou Dev <strong>back-end</strong> e por conta da curiosidade sempre estou estudando em busca de novos conhecimentos e experiências.<br><br>
+  E ai Dev, tudo beleza?,<br>
+  Me chamo Matheus, sou Dev <strong>Back-End</strong> e por conta da curiosidade sempre estou estudando em busca de novos conhecimentos e experiências.<br><br>
   Sou formando de Sistemas de Informação na Estácio de Sá e estou no 8º semestre (Glória a Deus 🙏), atualmente trabalho como Dev na Zup Innovation. 
   
   Se precisar de ajuda com algo ou quiser trocar uma ideia e tomar aquele cafezinho, só entrar em contato 😉, minhas redes sociais estão logo abaixo.
