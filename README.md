@@ -1,8 +1,13 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
+
+<img src="https://i.imgur.com/DdhQ3yo.png" min-width="400px" max-width="400px" width="400px" align="right" alt="image">
 
 <p align="left"> 
-  Olá me chamo Matheus, sou desenvolvedor <strong>back-end Jr. </strong> e estou sempre a procura de novos conhecimentos.<br><br>
-  Estudo Sistemas de Informação na Estácio de Sá e estou no 7º semestre, atualmente sou Desenvolvedor na Zup Innovation, tá com alguma dúvida? bora trocar uma ideia e tomar aquele cafezinho, caso precise de ajuda em algo, só entrar em contato 😉.
+  E ai Dev, tudo beleza?, seja bem vindo ao meu humilde Git Hub.
+  Me chamo Matheus, sou Dev <strong>back-end</strong> e por conta da curiosidade sempre estou estudando em busca de novos conhecimentos e experiências.<br><br>
+  Sou formando de Sistemas de Informação na Estácio de Sá e estou no 8º semestre (Glória a Deus 🙏), atualmente trabalho como Dev na Zup Innovation. 
+  
+  Se precisar de ajuda com algo ou quiser trocar uma ideia e tomar aquele cafezinho, só entrar em contato 😉, minhas redes sociais estão logo abaixo.
 </p>
 
 ## 💻 Tecnologias
@@ -10,31 +15,35 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" >
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" >
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=matheuscarv69&show_icons=true&theme=midnight-purple" align="right" min-width="400px" max-width="400px" width="400px" alt="github stats">
+ <!-- **GitHub Estatísticas** -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=matheuscarv69&show_icons=true&theme=midnight-purple" align="right" min-width="400px" max-width="400px" width="400px" alt="github stats"> -->
+  
+  <img align="right" min-width="360px" max-width="400px" width="360px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarv69&theme=dracula&hide_langs_below=1" />
 
 ## 📑 Em Andamento
 
 <p align="left">
-  <img src="https://img.shields.io/badge/typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
   
@@ -65,7 +74,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">  
 </p>
 
-###  💻 Setup
+### 💻 Setup
 
 <p align="self">
   <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
@@ -74,7 +83,8 @@
   <img src="https://img.shields.io/badge/Intellij_Idea-000000?style=for-the-badge&logo=Intellij%20idea&logoColor=white">
 </p>
 
-- - -
+---
+
 <p align="center" style="font-size: 20px ;">
   😉 Obrigado pela visita, espero que tenha ajudado, qualquer coisa só chamar 👋
   <br>
