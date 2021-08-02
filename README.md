@@ -1,6 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
 
-<img src="https://i.imgur.com/DdhQ3yo.png" min-width="400px" max-width="400px" width="400px" align="right" alt="image">
+<img src="https://raw.githubusercontent.com/matheuscarv69/matheuscarv69/main/image.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="image">
 
 <p align="left"> 
   E ai Dev, tudo beleza?, seja bem vindo ao meu humilde Git Hub.
