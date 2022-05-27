@@ -4,10 +4,11 @@
 
 <p align="justify" > 
   E ai Dev, tudo beleza?,<br>
-  Me chamo Matheus, sou Dev <strong>Back-End</strong> e por conta da curiosidade sempre estou estudando em busca de novos conhecimentos e experiências.<br><br>
-  Sou formando de Sistemas de Informação na Estácio de Sá e estou no 8º semestre (Glória a Deus 🙏), atualmente trabalho como Dev na Zup Innovation. 
+  Me chamo Matheus, sou um Dev Back-End que atua com Java/Kotlin junto com Spring Boot, hoje venho me aventurando na AWS e brincando com NodeJs.
+
+  Em 2021 me formei em Sistemas de Informação na Estácio de Sá e hoje trabalho como Dev Pleno na Zup Innovation. 
   
-  Se precisar de ajuda com algo ou quiser trocar uma ideia e tomar aquele cafezinho, só entrar em contato 😉, minhas redes sociais estão logo abaixo.
+  Se quiser trocar uma ideia, só dar um toque em uma das minhas redes sociais que estão logo abaixo que a gente marca aquele cafézinho ☕️.
 </p>
 
 ## 💻 Tecnologias
@@ -27,6 +28,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
@@ -76,6 +78,7 @@
 ### 💻 Setup
 
 <p align="self">
+  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
   <img src="https://img.shields.io/badge/NVIDIA-GTX1050TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
