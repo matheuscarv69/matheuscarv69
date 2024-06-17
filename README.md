@@ -2,7 +2,7 @@
 <h1 align="left">Hi ✌🏽, I'm Matheus Carvalho</h1>
 
 - 👨🏽‍💻 Back-end Developer
-- 💻 Working at [@Zup](https://www.zup.com.br/)
+- 💻 Working at [@PagBank](https://pagseguro.uol.com.br/)
 - 🌱 I’m currently learning Clean Code, AWS services and Node.JS
 - 💬 Ask me about Java, Kotlin, SQL, Docker
 - ⚡️ Fun fact, I'm automobilist enthusiast 🏎
